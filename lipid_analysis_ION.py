@@ -1,3 +1,5 @@
+# converts AK lab sequence nomenclature to SMILES language
+
 from rdkit import Chem
 from rdkit.Chem import Descriptors, Crippen, rdMolDescriptors
 import pandas as pd
